@@ -52,7 +52,7 @@ AI: Q. 첫 화면에서 제일 크게 보여야 할 건 뭐예요?
 **Claude Code**
 
 ```bash
-npx skills add syongmin54-hub/ask-me
+npx skills add dragonmiin/ask-me
 ```
 
 또는 직접 복사합니다.
